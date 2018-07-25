@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Christopher Roman - A Journey in Web Development
 
-You can use the [editor on GitHub](https://github.com/Christopher-Roman/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My entire career has been in customer service. From the day I started working in a grocery store to my first day working in a hotel. I've spent more than half of my life in a career focused on helping people get what they need.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This next step. This new journey. This life changing opportunity is something I am incredibly excited about. I can't wait to see what the future holds for me and my family!
 
-### Markdown
+## Goals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Learn Everything I Can in the WDI
+- Build a Strong Network
+- Document this Journey
+- Land a Remote Web Development Job
 
-```markdown
-Syntax highlighted code block
+## Plan
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Christopher-Roman/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Put together weekly updates on my progress
+- List out learnings from MeetUps I attend before, during, and after graduation
+- Offer guidance to anyone who has questions about this process 
